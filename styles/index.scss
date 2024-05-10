@@ -1,0 +1,14 @@
+@import './base/variables';
+@import './base/fonts';
+@import './base/reset';
+
+@import './components/cursor';
+@import './components/header';
+@import './components/loader';
+@import './components/nav';
+
+@import './pages/home';
+@import './pages/about';
+@import './pages/contact';
+@import './pages/experience';
+@import './pages/skills';
